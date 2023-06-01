@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css?family=Coda%7CCoda");
+
+    .sexy h1,
+    .sexy h2,
+    .sexy h3,
+    .sexy h4,
+    .sexy h5,
+    .sexy h6,
+    .album-title,
+    .fancybox-inner {
+        font-family: 'Coda';
+    }
+
+    .sexy h1 span.header,
+    .sexy h2 span.header,
+    .sexy h3 span.header,
+    .sexy h4 span.header,
+    .sexy h5 span.header,
+    .sexy h6 span.header,
+    .album-title span.header,
+    .fancybox-inner span.header {
+        font-size: 114%;
+    }
+.sexy li.editable, .fancybox-inner {
+        font-family: 'Coda';
+        font-size: 134%;
+        line-height: 157%;
+    }
+
+.sexy#sexy_613 {
+    
+    color: #000000;
+}
+
+    .sexy#sexy_613 .glasses {
+        background-color: rgba(146, 208, 80, 1.00);
+    }
+
+        html.ie6 .sexy#sexy_613 .glasses,
+        html.ie7 .sexy#sexy_613 .glasses,
+        html.ie8 .sexy#sexy_613 .glasses {
+            background-color: #92d050;
+        }
+
+    .sexy#sexy_613 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_968 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_968 .glasses {
+        background-color: rgba(255, 102, 0, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_968 .glasses,
+        html.ie7 .sexy#sexy_968 .glasses,
+        html.ie8 .sexy#sexy_968 .glasses {
+            background-color: #ff6600;
+        }
+
+    .sexy#sexy_968 .row.inner {
+        background-color: #8db3e2;
+    }
+
+
+.sexy#sexy_834 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_834 .glasses {
+        background-color: rgba(255, 102, 0, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_834 .glasses,
+        html.ie7 .sexy#sexy_834 .glasses,
+        html.ie8 .sexy#sexy_834 .glasses {
+            background-color: #ff6600;
+        }
+
+    .sexy#sexy_834 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_694 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_694 .glasses {
+        background-color: rgba(255, 102, 0, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_694 .glasses,
+        html.ie7 .sexy#sexy_694 .glasses,
+        html.ie8 .sexy#sexy_694 .glasses {
+            background-color: #ff6600;
+        }
+
+    .sexy#sexy_694 .row.inner {
+        background-color: #9bbb59;
+    }
+
+
+.sexy#sexy_636 {
+    
+    color: #000000;
+}
+
+    .sexy#sexy_636 .glasses {
+        background-color: rgba(255, 102, 0, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_636 .glasses,
+        html.ie7 .sexy#sexy_636 .glasses,
+        html.ie8 .sexy#sexy_636 .glasses {
+            background-color: #ff6600;
+        }
+
+    .sexy#sexy_636 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_983 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_983 .glasses {
+        background-color: rgba(204, 193, 217, 0.85);
+    }
+
+        html.ie6 .sexy#sexy_983 .glasses,
+        html.ie7 .sexy#sexy_983 .glasses,
+        html.ie8 .sexy#sexy_983 .glasses {
+            background-color: #ccc1d9;
+        }
+
+    .sexy#sexy_983 .row.inner {
+        background-color: #ffffff;
+    }
+
+
+.sexy#sexy_616 {
+    
+    color: #333333;
+}
+
+    .sexy#sexy_616 .glasses {
+        background-color: rgba(146, 208, 80, 0.84);
+    }
+
+        html.ie6 .sexy#sexy_616 .glasses,
+        html.ie7 .sexy#sexy_616 .glasses,
+        html.ie8 .sexy#sexy_616 .glasses {
+            background-color: #92d050;
+        }
+
+    .sexy#sexy_616 .row.inner {
+        background-color: #ffffff;
+    }
